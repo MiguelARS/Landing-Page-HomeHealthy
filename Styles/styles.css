@@ -89,10 +89,24 @@ h1{
 }
 
 #Aboutus{
+    margin-top: 600px;
+    padding: 100px;
     background: #f2f2f2;
 }
-
-
+button{
+    border-style: groove;
+    border-color: #058a47;
+    margin: 40px;
+    padding: 8px;
+    background-color: #74d4b3;
+    font-style: italic;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+}
+#espacio-video{
+    padding: 100px;
+    margin-bottom: 50px;
+}
 
 .sobre-nosotros{
     display: flex;
